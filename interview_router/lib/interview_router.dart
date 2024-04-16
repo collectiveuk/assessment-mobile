@@ -145,7 +145,6 @@ class InterviewInformationParser
 
 class InterviewInformationProvider extends RouteInformationProvider
     with ChangeNotifier {
-  /// {@macro module_information_provider}
   InterviewInformationProvider({
     required InterviewRoute initial,
   }) : _value = RouteInformation(
