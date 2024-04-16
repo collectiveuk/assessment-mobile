@@ -4,7 +4,7 @@ This is the assessment for Onsi mobile engineers. It provides a dummy routing pa
 
 ## Requirements
 
-Install the latest version of [Flutter](https://flutter.dev/)./
+Install the latest version of [Flutter](https://flutter.dev/).
 
 ## Then what?
 
