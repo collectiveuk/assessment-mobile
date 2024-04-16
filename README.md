@@ -8,4 +8,6 @@ Install the latest version of [Flutter](https://flutter.dev/).
 
 ## Then what?
 
-Run `flutter test`. Goal is to make the tests pass!
+A test suite has already been set up. We have also added TODOs to the code where relevant. The tests are currently failing.
+
+Run `flutter test` to run the test suite. Goal is to make the tests pass!
